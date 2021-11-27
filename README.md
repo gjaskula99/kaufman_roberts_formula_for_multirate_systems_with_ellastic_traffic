@@ -1,4 +1,4 @@
-# kaufman_roberts_formula_for_multirate_systems_with_ellastic_traffic
+# Kaufman-Roberts formula for multirate systems with ellastic traffic
 An algorithm to compute blocking probabilities in mulit-class system based on Kaufman-Roberts formula.
 
 Input taken from txt file in following format (each in new line):
